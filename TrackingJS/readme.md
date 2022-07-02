@@ -1,4 +1,4 @@
-Data files to the project too large. Could not be uploaded.
+Data files for the project too large. Could not be uploaded.
 
 Link:
 
